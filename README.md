@@ -1,3 +1,8 @@
+## Fork notes
+
+Our modificationa and additions are mainly targeted to get DBoW2 working under Windows.
+Please note that DBoW2 requires the OpenCV 3.* branch, including the extra modules from [OpenCV_contrib](https://github.com/itseez/opencv_contrib).
+
 DBoW2
 =====
 
