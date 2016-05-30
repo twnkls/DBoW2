@@ -63,6 +63,8 @@ int main()
 
   testDatabase(features);
 
+  wait();
+
   return 0;
 }
 
